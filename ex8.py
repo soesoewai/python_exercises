@@ -1,4 +1,4 @@
-formatter = "{} {} {} {]"
+formatter = "{} {} {} {}"
 
 
 
