@@ -11,7 +11,6 @@ input("?")
 print("Opening the file...")
 target = open(filename, 'w')
 
-READING AND WRITING FILES 85
 print("Truncating the file. Goodbye!")
 target.truncate()
 
