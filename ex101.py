@@ -1,8 +1,8 @@
-tabby_dog = "\tI'm tabbed in."
-persian_dog = "I'm spilt\non a line."
-backslash_dog = "I'm \\ a \\ dog."
+tabby_rat = "\tI'm tabbed in."
+persian_rat = "I'm spilt\non a line."
+backslash_rat = "I'm \\ a \\ dog."
 
-fat_dog = """
+fat_rat = """
 I'll do a list:
     \t" dog food
     \t" Fishies
@@ -10,7 +10,7 @@ I'll do a list:
     """
 
 
-print(tabby_dog)
-print(persian_dog)
-print(backslash_dog)
-print(fat_dog)
+print(tabby_rat)
+print(persian_rat)
+print(backslash_rat)
+print(fat_rat)
